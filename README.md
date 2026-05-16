@@ -36,7 +36,7 @@ using phenotypic and genomic metadata obtained from the BVBRC dataset
 
 ✅SHAP explainability analysis
 
-**⚙️Machine Learning Pipeline**
+**⚙️Machine Learning Pipeline:**
 
 **✅Data Preprocessing**
 
